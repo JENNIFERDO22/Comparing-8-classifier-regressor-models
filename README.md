@@ -5,7 +5,9 @@ The purpose of this project is to compare the performance of different classifie
 
 ## 2. Folder
 **data-** containing data files
+
 **code-** containing jupyter notebook codes
+
 **report-** a report on which model performs the best for each data set
 
 ## 3. Models compared
