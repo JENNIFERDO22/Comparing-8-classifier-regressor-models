@@ -4,11 +4,11 @@
 The purpose of this project is to compare the performance of different classifier/regressor models on each specific data set. 
 
 ## 2. Folder
-**data-** containing data files
+**data -** containing data files
 
-**code-** containing jupyter notebook codes
+**code -** containing jupyter notebook codes
 
-**report-** a report on which model performs the best for each data set
+**report -** a report on which model performs the best for each data set
 
 ## 3. Models compared
 **Regressor Models (8 models):**
